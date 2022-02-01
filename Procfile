@@ -1,1 +1,1 @@
-web: gunicorn the 
+web: gunicorn blogproject.wsgip
